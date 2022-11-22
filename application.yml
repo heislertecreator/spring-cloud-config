@@ -7,5 +7,5 @@ spring:
         git:
           search-paths:
            - '*service'
-          uri: https://github.com/heislertecreator/microservices-krish-test
+          uri: https://github.com/heislertecreator/spring-cloud-config
 
